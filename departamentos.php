@@ -119,7 +119,7 @@
 <!--/bottom-->
 
 <!--Footer-->
-<?php include './footer/bottom.php'; ?>
+<?php include './estruturas/footer.php'; ?>
 <!--/Footer-->
 
 <!--  Login form -->

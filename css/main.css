@@ -153,6 +153,10 @@ body>section#slide-show {
     color: #999;
 }
 
+#about-us.main>p{
+    text-align: justify;
+}
+
 .title {
     background: #31c3e7;
     color: #fff;
@@ -278,11 +282,6 @@ header.navbar {
     margin-bottom: 0;
 }
 
-header.navbar .nav-collapse{
-  /*  background: #009ece;
-    border-radius: 0px 0px 10px 10px;*/
-}
-
 header.navbar .nav {
     margin-top: 20px;
      background: #009ece;
@@ -298,7 +297,7 @@ header.navbar .nav>li {
 header.navbar .nav>li>a {
     padding-top: 10px;
     padding-bottom: 10px;
-    color: #f5f5f5;
+    color: #fff;
     font-family: "Fjalla One";
     font-size: 14px;
     text-transform: uppercase;
