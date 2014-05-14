@@ -34,8 +34,9 @@
     <section id="about-us" class="container main">
         <div class="row-fluid">
             <div class="span6">
-                <h2>What we are</h2>
-                <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.</p>
+                <h2>A FarmAlfenas Jr</h2>
+                <p>A Farmalfenas Jr (FAJr) é a primeira empresa júnior de consultoria farmacêutica do sul de Minas Gerais. Sinteticamente somos uma empresa gerenciada por estudantes universitários que realizam projetos e prestam serviços em suas áreas de graduação para empresas ligadas à área farmacêutica. Nossa empresa tem como missão a prestação de consultoria farmacêutica contando com a participação de membros capacitados e proporcionando aos mesmos e a comunidade um serviço diferenciado que busca benefícios humanos, profissionais e sociais. E, nossa visão se resume a desenvolver serviços com eficácia e qualidade, atingir as metas e expectativas determinadas pelos colaboradores e com isso adquirir o reconhecimento da empresa na região sudeste brasileira, prosperando aumentar sua cartilha de serviços e clientes.</p>
+                <p>Pela finalidade da Empresa Júnior ser de cunho social e educacional e, ainda pela estrutura de baixos custos, os preços praticados são consideravelmente abaixo dos preços de mercado. Vale lembrar que a empresa se localiza no ambiente da universidade e que todos os projetos e serviços seguem com orientação obrigatória de professores ou profissionais da área, com o objetivo de sempre garantir um padrão de qualidade elevado.</p>
             </div>
             <div class="span6">
                 <h2>Our Skills</h2>
