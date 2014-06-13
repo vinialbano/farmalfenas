@@ -1,21 +1,22 @@
 <?php
-	header('Content-type: application/json');
-	$status = array(
-		'type'=>'success',
-		'message'=>'Email sent!'
-	);
 
-    $name = @trim(stripslashes($_POST['name'])); 
-    $email = @trim(stripslashes($_POST['email'])); 
-    $subject = @trim(stripslashes($_POST['subject'])); 
-    $message = @trim(stripslashes($_POST['message'])); 
+$toemail = 'vinialbano@gmail.com'; // change this to your email id
+$name = strip_tags($_POST['nome']);
+$email = strip_tags($_POST['email']);
+$msg = strip_tags($_POST['mensagem']);
 
-    $email_from = $email;
-    $email_to = 'email@gmail.com';
+$subject = 'Contato Site FarmAlfenas Jr';
 
-    $body = 'Name: ' . $name . "\n\n" . 'Email: ' . $email . "\n\n" . 'Subject: ' . $subject . "\n\n" . 'Message: ' . $message;
+$headers = "From: $email \r\n";
+$headers .= "Reply-To: $email \r\n";
+$headers .= "MIME-Version: 1.0\r\n";
+$headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
+$headers .= 'X-Mailer: PHP/' . phpversion();
 
-    $success = @mail($email_to, $subject, $body, 'From: <'.$email_from.'>');
+$message = "Nova mensagem recebida pelo site FarmAlfenas Jr <br>";
+$message .= "Nome: " . $name . "<br>";
+$message .='Email: ' . $email . "<br>";
+$message .='Mensagem: ' . $msg;
+mail($toemail, $subject, $message, $headers);
 
-    echo json_encode($status);
-    die;
+?>
