@@ -180,9 +180,7 @@
         <?php include './estruturas/footer.php'; ?>
         <!--/Footer-->
 
-        <!--  Login form -->
-        <?php include './estruturas/login.php'; ?>
-        <!--  /Login form -->
+       
 
         <script src="js/vendor/jquery-1.9.1.min.js"></script>
         <script src="js/vendor/bootstrap.min.js"></script>

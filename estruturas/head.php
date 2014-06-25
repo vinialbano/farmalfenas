@@ -1,5 +1,4 @@
-<?php
-echo '<meta charset="utf-8">
+<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
     <meta name="description" content="">
@@ -19,5 +18,4 @@ echo '<meta charset="utf-8">
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/logos/logo-farmalfenas-144.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/logos/logo-farmalfenas-114.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/logos/logo-farmalfenas-72.png">
-    <link rel="apple-touch-icon-precomposed" href="images/logos/logo-farmalfenas-57.png">';
-?>
+    <link rel="apple-touch-icon-precomposed" href="images/logos/logo-farmalfenas-57.png">

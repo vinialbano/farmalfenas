@@ -35,7 +35,7 @@
 
 
         <section class="services">
-            <div class="containter">
+            <div class="container">
                 <div class="center gap">
                     <h2>
                         Da Nossa Empresa Para Sua Empresa
@@ -149,6 +149,7 @@
                         </div>
                     </div>
                 </div>
+                <hr>
                 <div class="center gap">
                     <h2>
                         Da Nossa Empresa Para Você
@@ -196,9 +197,7 @@
         <?php include './estruturas/footer.php' ?>
         <!--/Footer-->
 
-        <!--  Login form -->
-        <?php include './estruturas/login.php'; ?>
-        <!--  /Login form -->
+       
 
         <script src="js/vendor/jquery-1.9.1.min.js"></script>
         <script src="js/vendor/bootstrap.min.js"></script>
