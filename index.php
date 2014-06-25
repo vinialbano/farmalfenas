@@ -73,8 +73,8 @@
         <section id="services">
             <div class="container">
                 <div class="center gap">
-                    <h3>Seja bem vindo!</h3>
-                    <p class="lead">A Farmalfenas Jr (FAJr) é a primeira empresa júnior de consultoria farmacêutica do sul de Minas Gerais. Sinteticamente somos uma empresa gerenciada por estudantes universitários que realizam projetos e prestam serviços em suas áreas de graduação para empresas ligadas à área farmacêutica. Pela finalidade da Empresa Júnior ser de cunho social e educacional e,ainda pela estrutura de baixos custos, os preços praticados são consideravelmente abaixo dos preços de mercado. </br>Vale lembrar que a empresa se localiza no ambiente da universidade e que todos os projetos e serviços seguem com orientação obrigatória de professores ou profissionais da área, com o objetivo de sempre garantir um padrão de qualidade elevado.</p>
+                    <h4>Seja bem vindo!</h4>
+                    <p>A Farmalfenas Jr (FAJr) é a primeira empresa júnior de consultoria farmacêutica do sul de Minas Gerais. Sinteticamente somos uma empresa gerenciada por estudantes universitários que realizam projetos e prestam serviços em suas áreas de graduação para empresas ligadas à área farmacêutica. Pela finalidade da Empresa Júnior ser de cunho social e educacional e,ainda pela estrutura de baixos custos, os preços praticados são consideravelmente abaixo dos preços de mercado. </br>Vale lembrar que a empresa se localiza no ambiente da universidade e que todos os projetos e serviços seguem com orientação obrigatória de professores ou profissionais da área, com o objetivo de sempre garantir um padrão de qualidade elevado.</p>
                 </div>
 
                 <div class="row-fluid">
@@ -124,15 +124,11 @@
 
         <section id="recent-works">
             <div class="container">
-                <div class="row center">
-                    <h2>
-                        Nossos Projetos
-                    </h2>
-                </div>
-                <div class="gap"></div>
+                
                 <div class="row">
                     <div class="span6">
-                        <h3>Desenvolvidos</h3>
+                        <h2>Projetos Desenvolvidos</h2>
+                        <div class="gap"></div>
                         <div class="accordion" id="accordionDesenvolvidos">
                             <div class="accordion-group">
                                 <div class="accordion-heading">
@@ -197,7 +193,8 @@
                         </div>
                     </div>
                     <div class="span6">
-                        <h3>Em Desenvolvimento</h3>
+                        <h2>Projetos Em Desenvolvimento</h2>
+                        <div class="gap"></div>
                         <div class="accordion" id="accordionDesenvolvimento">
                             <div class="accordion-group">
                                 <div class="accordion-heading">

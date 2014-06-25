@@ -35,7 +35,7 @@ body {
     padding-top: 80px;
     font-size: 12px;
     color: #34495e;
-    background: #f5f5f5;
+    background: #fff;
 }
 
 body h1,body h2,body h3,body h4,body .created {
@@ -117,11 +117,6 @@ body>section#slide-show {
     padding: 0;
 }
 
-#recent-works {
-    background: #31c3e7;
-    color: #fff;
-}
-
 #recent-works .links>a {
     background: #fff;
     color: #31c3e7;
@@ -153,9 +148,17 @@ body>section#slide-show {
     color: #999;
 }
 
-#about-us.main>p{
+#about-us .content{
+    background:#fefefe;
+    padding:12px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.2);
+    border-radius: 15px;
+}
+
+#about-us.main p{
     text-align: justify;
 }
+
 
 .title {
     background: #31c3e7;
@@ -284,7 +287,7 @@ header.navbar {
 
 header.navbar .nav {
     margin-top: 20px;
-     background: #009ece;
+    background: #009ece;
     border-radius: 10px 10px 10px 10px;
 }
 
@@ -326,7 +329,7 @@ header.navbar .nav>li.dropdown.open>a.dropdown-toggle {
 }
 
 header.navbar .nav>li.login>a {
-   /* border-left: 1px solid #e5e5e5;*/
+    /* border-left: 1px solid #e5e5e5;*/
 }
 
 header .dropdown-menu {
@@ -458,18 +461,20 @@ header .dropdown-menu:before {
     padding: 0;
 }
 
-#services {
-    background: #f5f5f5;
-    color: #009ece;
+#services .container {
+    background: #fefefe;
+    padding:12px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
 }
 
 #services h1,#services h2,#services h3,#services h4,#services h5,#services h6 {
-    color: #ff9e00;
-	
+    color: #a32011;
+
 }
 
 #services p {
-	text-align:justify;
+    text-align:justify;
 }
 
 #main-contents {
