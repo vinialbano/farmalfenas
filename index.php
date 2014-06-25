@@ -73,7 +73,7 @@
         <section id="services">
             <div class="container">
                 <div class="center gap">
-                    <h4>Seja bem vindo!</h4>
+                    <h2>Seja bem vindo!</h2>
                     <p>A Farmalfenas Jr (FAJr) é a primeira empresa júnior de consultoria farmacêutica do sul de Minas Gerais. Sinteticamente somos uma empresa gerenciada por estudantes universitários que realizam projetos e prestam serviços em suas áreas de graduação para empresas ligadas à área farmacêutica. Pela finalidade da Empresa Júnior ser de cunho social e educacional e,ainda pela estrutura de baixos custos, os preços praticados são consideravelmente abaixo dos preços de mercado. </br>Vale lembrar que a empresa se localiza no ambiente da universidade e que todos os projetos e serviços seguem com orientação obrigatória de professores ou profissionais da área, com o objetivo de sempre garantir um padrão de qualidade elevado.</p>
                 </div>
                 <div class="row-fluid">
@@ -117,9 +117,10 @@
             </div>
         </section>
         <!--/Services-->
-
+        
         <section id="recent-works">
             <div class="container">  
+                
                 <div class="row">
                     <div class="span6">
                         <h2>Projetos Desenvolvidos</h2>
@@ -244,9 +245,11 @@
                 </div>
             </div>
         </section>
+        
 
         <section id="clients" class="main">
             <div class="container">
+                
                 <div class="row-fluid">
                     <div class="span2">                    
                         <h4 class="pull-left">Parceiros</h4>
@@ -273,7 +276,7 @@
         <?php include './estruturas/footer.php'; ?>
         <!--/Footer-->
 
-        
+
 
         <script src="js/vendor/jquery-1.9.1.min.js"></script>
         <script src="js/vendor/bootstrap.min.js"></script>

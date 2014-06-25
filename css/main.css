@@ -35,7 +35,8 @@ body {
     padding-top: 80px;
     font-size: 12px;
     color: #34495e;
-    background: #fff;
+    background-color: #ddd;
+    background-image: linear-gradient(to bottom, rgba(255,255,255,.1), rgba(255,255,255,.4), rgba(255,255,255,0), rgba(255,255,255,.4));
 }
 
 body h1,body h2,body h3,body h4,body .created {
@@ -124,7 +125,7 @@ body>section#slide-show {
 }
 
 #clients {
-    background: #fff;
+
 }
 
 #clients h4 {
@@ -385,7 +386,7 @@ header .dropdown-menu:before {
     line-height: 18px;
     text-align: center;
     display: inline-block;
-    background: #ff9e00;
+    background: #34495e;
     padding: 10px;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
@@ -469,7 +470,7 @@ header .dropdown-menu:before {
 }
 
 #services h1,#services h2,#services h3,#services h4,#services h5,#services h6 {
-    color: #a32011;
+ //   color: #a32011;
 
 }
 
