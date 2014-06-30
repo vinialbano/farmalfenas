@@ -10,8 +10,7 @@
 
 <body>
 
-    <!--Header-->
-   
+    <!--Header-->  
 	<?php include './estruturas/header.php';?>
     <!-- /header -->
 
@@ -21,17 +20,11 @@
         <p>A página que você está querendo acessar não existe ou um erro ocorreu.</p>
         <a class="btn btn-success" href="index.php">Voltar para a Página Inicial</a>
     </section>
-    <!-- /404 error -->
-
-    <!--Bottom-->
-   <?php include './estruturas/bottom.php'; ?>
-    <!--/bottom-->
+    <!-- /404 error -->   
 
     <!--Footer-->
     <?php include './estruturas/footer.php'; ?>
-    <!--/Footer-->
-
-   
+    <!--/Footer-->   
 
     <script src="js/vendor/jquery-1.9.1.min.js"></script>
     <script src="js/vendor/bootstrap.min.js"></script>

@@ -271,10 +271,6 @@
     </div>
 </section>
 
-<!--Bottom-->
-<?php include './estruturas/bottom.php'; ?>
-<!--/bottom-->
-
 <!--Footer-->
 <?php include './estruturas/footer.php'; ?>
 <!--/Footer-->

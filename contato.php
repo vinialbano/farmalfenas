@@ -13,7 +13,6 @@
     <body>
 
         <!--Header-->
-
         <?php include './estruturas/header.php'; ?>
         <!-- /header -->
 
@@ -47,9 +46,6 @@
                         </div>
                     </form>
                     <button id="submit" class="btn btn-primary btn-large pull-right">Enviar email</button>
-
-
-
                 </div>
 
                 <div class="span3">
@@ -61,20 +57,12 @@
                         <i class="icon-envelope"></i> &nbsp;farmalfenasjr@yahoo.com.br
                     </p>
                 </div>
-
-
-
         </section>
 
-        <!--Bottom-->
-        <?php include './estruturas/bottom.php'; ?>
-        <!--/bottom-->
-
+      
         <!--Footer-->
         <?php include './estruturas/footer.php'; ?>
-        <!--/Footer-->
-
-       
+        <!--/Footer-->       
 
         <script src="js/vendor/jquery-1.9.1.min.js"></script>
         <script src="js/vendor/bootstrap.min.js"></script>
