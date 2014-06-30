@@ -17,9 +17,9 @@
 
     <!-- 404 error -->
     <section id="error" class="container">
-        <h1>404, Page not found</h1>
-        <p>The Page you are looking for doesn't exist or an other error occurred.</p>
-        <a class="btn btn-success" href="index.html">GO BACK TO THE HOMEPAGE</a>
+        <h1>404, Página Não Encontrada</h1>
+        <p>A página que você está querendo acessar não existe ou um erro ocorreu.</p>
+        <a class="btn btn-success" href="index.php">Voltar para a Página Inicial</a>
     </section>
     <!-- /404 error -->
 
