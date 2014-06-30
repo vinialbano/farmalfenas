@@ -32,11 +32,9 @@
 }
 
 body {
-    padding-top: 80px;
     font-size: 12px;
     color: #34495e;
-    background-color: #ddd;
-    background-image: linear-gradient(to bottom, rgba(255,255,255,.1), rgba(255,255,255,.4), rgba(255,255,255,0), rgba(255,255,255,.4));
+    background-color: #fcfcfc;
 }
 
 body h1,body h2,body h3,body h4,body .created {
@@ -122,14 +120,6 @@ body>section#slide-show {
     background: #fff;
     color: #31c3e7;
     text-shadow: none;
-}
-
-#clients {
-
-}
-
-#clients h4 {
-    color: #999;
 }
 
 #clients .carousel {
@@ -269,17 +259,20 @@ ul.tag-cloud li {
 }
 
 header.navbar .navbar-inner {
-    background: #fff!important;
+    background: #ace!important;
     border: 0;
-    -webkit-box-shadow: none;
-    -moz-box-shadow: none;
-    box-shadow: none;
+    margin-top:20px;
+    padding:5px 40px 5px 60px;
+    -webkit-box-shadow: -8px 8px 10px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    -8px 8px 10px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         -8px 8px 10px 0px rgba(50, 50, 50, 0.75);
 }
 
 header #logo {
-    width: 220px;
-    height: 80px;
-    background: url(../images/logo.png) no-repeat 0 50%;
+    width: 202px;
+    height: 28px;
+    padding: 10px 10px;
+    background: url(../images/logos/logo.png) no-repeat 0 50%;
 }
 
 header.navbar {
@@ -287,9 +280,7 @@ header.navbar {
 }
 
 header.navbar .nav {
-    margin-top: 20px;
-    background: #009ece;
-    border-radius: 10px 10px 10px 10px;
+    margin-top: 0px;
 }
 
 
@@ -462,15 +453,8 @@ header .dropdown-menu:before {
     padding: 0;
 }
 
-#services .container {
-    background: #fefefe;
-    padding:12px;
-    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
-    border-radius: 15px;
-}
-
 #services h1,#services h2,#services h3,#services h4,#services h5,#services h6 {
- //   color: #a32011;
+    //   color: #a32011;
 
 }
 

@@ -71,7 +71,7 @@
 
         <!--Services-->
         <section id="services">
-            <div class="container">
+            <div class="container box">
                 <div class="center gap">
                     <h2>Seja bem vindo!</h2>
                     <p>A Farmalfenas Jr (FAJr) é a primeira empresa júnior de consultoria farmacêutica do sul de Minas Gerais. Sinteticamente somos uma empresa gerenciada por estudantes universitários que realizam projetos e prestam serviços em suas áreas de graduação para empresas ligadas à área farmacêutica. Pela finalidade da Empresa Júnior ser de cunho social e educacional e,ainda pela estrutura de baixos custos, os preços praticados são consideravelmente abaixo dos preços de mercado. </br>Vale lembrar que a empresa se localiza no ambiente da universidade e que todos os projetos e serviços seguem com orientação obrigatória de professores ou profissionais da área, com o objetivo de sempre garantir um padrão de qualidade elevado.</p>
@@ -117,14 +117,14 @@
             </div>
         </section>
         <!--/Services-->
-        
+
         <section id="recent-works">
-            <div class="container">  
-                
+            <div class="container box">  
+
                 <div class="row">
                     <div class="span6">
-                        <h2>Projetos Desenvolvidos</h2>
-                        <div class="gap"></div>
+                        <h2 class="center">Projetos Desenvolvidos</h2>
+
                         <div class="accordion" id="accordionDesenvolvidos">
                             <div class="accordion-group">
                                 <div class="accordion-heading">
@@ -189,8 +189,8 @@
                         </div>
                     </div>
                     <div class="span6">
-                        <h2>Projetos Em Desenvolvimento</h2>
-                        <div class="gap"></div>
+                        <h2 class="center">Projetos Em Desenvolvimento</h2>
+
                         <div class="accordion" id="accordionDesenvolvimento">
                             <div class="accordion-group">
                                 <div class="accordion-heading">
@@ -245,78 +245,81 @@
                 </div>
             </div>
         </section>
-        
+
 
         <section id="clients" class="main">
-            <div class="container">
-                
-                <div class="row-fluid">
-                    <div class="span2">                    
-                        <h4 class="pull-left">Parceiros</h4>
-                    </div>
-                    <div class="span10">
-                        <div class="row-fluid">
-                            <ul class="thumbnails">
-                                <li class="span3"><a href="http://www.tribitjr.com/"><img src="images/parceiros/tribitjr.png"></a></li>
-                                <li class="span3"><a href="http://www.biotecinova.com.br"><img src="images/parceiros/biotecinova.png"></a></li>
-                                <li class="span3"><a href="#"><img src="images/sample/clients/client3.png"></a></li>
-                                <li class="span3"><a href="#"><img src="images/sample/clients/client4.png"></a></li>
-                            </ul>
-                        </div>
-                    </div>
+            <div class="container box">
+                <div class="center">                    
+                    <h2>Parceiros</h2>
+                </div>
+
+                <div class="row-fluid center ">
+                    <ul class="thumbnails">
+                        
+                            <li class="span2"><a href="http://www.tribitjr.com/"><img src="images/parceiros/tribitjr.png"></a></li>
+                            <li class="span2"><a href="http://www.biotecinova.com.br"><img src="images/parceiros/biotecinova.png"></a></li>
+                            <li class="span2"><a href="http://www.unifal-mg.edu.br"><img src="images/parceiros/unifal.jpg"></a></li>
+                        
+                            <li class="span2"><a href="https://www.facebook.com/mantiflora"><img src="images/parceiros/mantiflora.jpg"></a></li>
+                            <li class="span2"><a href="http://www.unifal-mg.edu.br/ncq/"><img src="images/parceiros/ncq.jpg"></a></li>
+                            <li class="span2"><a href="http://beta.yeapfarma.com/"><img src="images/parceiros/yeap.jpg"></a></li>
+                        
+                    </ul>
                 </div>
             </div>
-        </section>
+        </div>
+    </div>
+</section>
 
-        <!--Bottom-->
-        <?php include './estruturas/bottom.php'; ?>
-        <!--/bottom-->
+<!--Bottom-->
+<?php include './estruturas/bottom.php'; ?>
+<!--/bottom-->
 
-        <!--Footer-->
-        <?php include './estruturas/footer.php'; ?>
-        <!--/Footer-->
+<!--Footer-->
+<?php include './estruturas/footer.php'; ?>
+<!--/Footer-->
 
 
 
-        <script src="js/vendor/jquery-1.9.1.min.js"></script>
-        <script src="js/vendor/bootstrap.min.js"></script>
-        <script src="js/main.js"></script>
-        <!-- Required javascript files for Slider -->
-        <script src="js/jquery.ba-cond.min.js"></script>
-        <script src="js/jquery.slitslider.js"></script>
-        <!-- /Required javascript files for Slider -->
+<script src="js/vendor/jquery-1.9.1.min.js"></script>
+<script src="js/vendor/bootstrap.min.js"></script>
+<script src="js/main.js"></script>
+<!-- Required javascript files for Slider -->
+<script src="js/jquery.ba-cond.min.js"></script>
+<script src="js/jquery.slitslider.js"></script>
+<!-- /Required javascript files for Slider -->
 
-        <!-- SL Slider -->
-        <script type="text/javascript">
-            $(function() {
-                var Page = (function() {
+<!-- SL Slider -->
+<script type="text/javascript">
+    $(function() {
+        var Page = (function() {
 
-                    var $navArrows = $('#nav-arrows'),
-                            slitslider = $('#slider').slitslider({
-                        autoplay: true
-                    }),
-                            init = function() {
-                                initEvents();
-                            },
-                            initEvents = function() {
-                                $navArrows.children(':last').on('click', function() {
-                                    slitslider.next();
-                                    return false;
-                                });
+            var $navArrows = $('#nav-arrows'),
+                    slitslider = $('#slider').slitslider({
+                autoplay: true
+            }),
+                    init = function() {
+                        initEvents();
+                    },
+                    initEvents = function() {
+                        $navArrows.children(':last').on('click', function() {
+                            slitslider.next();
+                            return false;
+                        });
 
-                                $navArrows.children(':first').on('click', function() {
-                                    slitslider.previous();
-                                    return false;
-                                });
-                            };
+                        $navArrows.children(':first').on('click', function() {
+                            slitslider.previous();
+                            return false;
+                        });
+                    };
 
-                    return {init: init};
+            return {init: init};
 
-                })();
+        })();
 
-                Page.init();
-            });
-        </script>
-        <!-- /SL Slider -->
-    </body>
+        Page.init();
+    });
+</script>
+<!-- /SL Slider -->
+</body>
 </html>

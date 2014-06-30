@@ -68,8 +68,8 @@
                         <p>O logo da FarmAlfenas Jr. é inspirado em um símbolo da cultura celta, conhecido como triskle, triskelion ou tríscele. O triskle é uma espécie de estrela de três pontas, geralmente recurvadas, que dão uma ideia de constante movimento. Este fato não é acidental e representa: ação, ciclo, progresso, eterna evolução, perpétua aprendizagem, concorrência e avanço. Além disso, o três é considerado, por alguns povos antigos, como um número poderoso e perfeito, pois o conhecimento seria passado na forma de tríades. Portanto, essas características foram cruciais para a criação da logomarca da empresa tal como é, tendo a FA Jr os três princípios: o crescimento e desenvolvimento pessoal, o sucesso e o trabalho de qualidade.</p>
                     </div>
                 </div>
-                <div class="container span6">
-                    <img class="pull-right" src="./images/logos/logo-farmalfenas-completo.png" alt="" />
+                <div class="container span6 center">
+                    <img src="./images/logos/logo-farmalfenas-completo.png" alt="" />
                 </div>
             </div>
 
@@ -83,45 +83,73 @@
             <hr>
 
             <div class="row-fluid">
-                <div class="span3">
-                    <div class="box">
-                        <p><img src="images/sample/team1.jpg" alt="" ></p>
-                        <h5>Leonard M. Spurlock</h5>
-                        <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat.</p>
-                        <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a> <a class="btn btn-social btn-google-plus" href="#"><i class="icon-google-plus"></i></a> <a class="btn btn-social btn-twitter" href="#"><i class="icon-twitter"></i></a> <a class="btn btn-social btn-linkedin" href="#"><i class="icon-linkedin"></i></a>
-                    </div>
-                </div>
+                <ul class="gallery col-4">
+                    <li>
+                        <div class="box preview">
+                            <a data-toggle="modal" href="#modal-1"><p><img src="images/portfolio/diretoria-marketing.jpg" alt="" ></p></a>
 
-                <div class="span3">
-                    <div class="box">
-                        <p><img src="images/sample/team2.jpg" alt="" ></p>
-                        <h5>David J. Robbins</h5>
-                        <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat.</p>
-                        <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a> <a class="btn btn-social btn-google-plus" href="#"><i class="icon-google-plus"></i></a> <a class="btn btn-social btn-twitter" href="#"><i class="icon-twitter"></i></a> <a class="btn btn-social btn-linkedin" href="#"><i class="icon-linkedin"></i></a>
-                    </div>
-                </div>
+                            <h5>Diretoria de Marketing</h5>
+                            <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat.</p>
 
-                <div class="span3">
-                    <div class="box">
-                        <p><img src="images/sample/team4.jpg" alt="" ></p>
-                        <h5>Thomas M. Morgan</h5>
-                        <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat.</p>
-                        <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a> <a class="btn btn-social btn-google-plus" href="#"><i class="icon-google-plus"></i></a> <a class="btn btn-social btn-twitter" href="#"><i class="icon-twitter"></i></a> <a class="btn btn-social btn-linkedin" href="#"><i class="icon-linkedin"></i></a>
-                    </div>
-                </div>
+                        </div>
 
-                <div class="span3">
-                    <div class="box">
-                        <p><img src="images/sample/team3.jpg" alt="" ></p>
-                        <h5>Agustin E. Hightower</h5>
-                        <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat.</p>
-                        <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a> <a class="btn btn-social btn-google-plus" href="#"><i class="icon-google-plus"></i></a> <a class="btn btn-social btn-twitter" href="#"><i class="icon-twitter"></i></a> <a class="btn btn-social btn-linkedin" href="#"><i class="icon-linkedin"></i></a>
-                    </div>
-                </div>
+                        <div id="modal-1" class="modal hide fade">
+                            <a class="close-modal" href="javascript:;" data-dismiss="modal" aria-hidden="true"></a>
+                            <div class="modal-body">
+                                <img src="images/portfolio/diretoria-marketing.jpg" alt=" " width="100%" style="max-height:600px">
+                            </div>
+                        </div>  
+                    </li>
+
+                    <li>
+                        <div class="box preview">
+                            <a data-toggle="modal" href="#modal-2"><p><img src="images/portfolio/diretoria-projetos.jpg" alt="" ></p></a>
+                            <h5>Diretoria de Projetos</h5>
+                            <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat.</p>
+
+                        </div>
+
+                        <div id="modal-2" class="modal hide fade">
+                            <a class="close-modal" href="javascript:;" data-dismiss="modal" aria-hidden="true"></a>
+                            <div class="modal-body">
+                                <img src="images/portfolio/diretoria-projetos.jpg" alt=" " width="100%" style="max-height:600px">
+                            </div>
+                        </div> 
+                    </li>
+
+                    <li>
+                        <div class="box preview">
+                            <a data-toggle="modal" href="#modal-3"><p><img src="images/portfolio/diretoria-rh.jpg" alt="" ></p></a>
+                            <h5>Diretoria de RH</h5>
+                            <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat.</p>
+                        </div>
+                        <div id="modal-3" class="modal hide fade">
+                            <a class="close-modal" href="javascript:;" data-dismiss="modal" aria-hidden="true"></a>
+                            <div class="modal-body">
+                                <img src="images/portfolio/diretoria-rh.jpg" alt=" " width="100%" style="max-height:600px">
+                            </div>
+                        </div> 
+                    </li>
+
+                    <li>
+                        <div class="box preview">
+                            <a data-toggle="modal" href="#modal-4"><p><img src="images/portfolio/diretoria-rh.jpg" alt="" ></p></a>
+
+                            <h5>Diretoria do Financeiro</h5>
+                            <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat.</p>
+                        </div>
+                        <div id="modal-4" class="modal hide fade">
+                            <a class="close-modal" href="javascript:;" data-dismiss="modal" aria-hidden="true"></a>
+                            <div class="modal-body">
+                                <img src="images/portfolio/diretoria-financeiro.jpg" alt=" " width="100%" style="max-height:600px">
+                            </div>
+                        </div> 
+                    </li>
+                </ul>
             </div>
             <p>&nbsp;</p>
             <p></p>
-           
+
         </section>
 
         <!--Bottom-->
