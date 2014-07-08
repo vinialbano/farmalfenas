@@ -70,8 +70,8 @@
         <!--/Slider-->
 
         <!--Services-->
-        <section id="services">
-            <div class="container box">
+        <section id="sobre">
+            <div class="container">
                 <div class="center gap">
                     <h2>Seja bem vindo!</h2>
                     <p>A Farmalfenas Jr (FAJr) é a primeira empresa júnior de consultoria farmacêutica do sul de Minas Gerais. Sinteticamente somos uma empresa gerenciada por estudantes universitários que realizam projetos e prestam serviços em suas áreas de graduação para empresas ligadas à área farmacêutica. Pela finalidade da Empresa Júnior ser de cunho social e educacional e,ainda pela estrutura de baixos custos, os preços praticados são consideravelmente abaixo dos preços de mercado. </br>Vale lembrar que a empresa se localiza no ambiente da universidade e que todos os projetos e serviços seguem com orientação obrigatória de professores ou profissionais da área, com o objetivo de sempre garantir um padrão de qualidade elevado.</p>
@@ -118,8 +118,8 @@
         </section>
         <!--/Services-->
 
-        <section id="recent-works">
-            <div class="container box">  
+        <section id="projetos">
+            <div class="container">  
 
                 <div class="row">
                     <div class="span6">
@@ -247,8 +247,8 @@
         </section>
 
 
-        <section id="clients" class="main">
-            <div class="container box">
+        <section id="parceiros" class="main">
+            <div class="container">
                 <div class="center">                    
                     <h2>Parceiros</h2>
                 </div>
@@ -258,8 +258,7 @@
                         
                             <li class="span2"><a href="http://www.tribitjr.com/"><img src="images/parceiros/tribitjr.png"></a></li>
                             <li class="span2"><a href="http://www.biotecinova.com.br"><img src="images/parceiros/biotecinova.png"></a></li>
-                            <li class="span2"><a href="http://www.unifal-mg.edu.br"><img src="images/parceiros/unifal.jpg"></a></li>
-                        
+                            <li class="span2"><a href="http://www.unifal-mg.edu.br"><img src="images/parceiros/unifal.jpg"></a></li>                     
                             <li class="span2"><a href="https://www.facebook.com/mantiflora"><img src="images/parceiros/mantiflora.jpg"></a></li>
                             <li class="span2"><a href="http://www.unifal-mg.edu.br/ncq/"><img src="images/parceiros/ncq.jpg"></a></li>
                             <li class="span2"><a href="http://beta.yeapfarma.com/"><img src="images/parceiros/yeap.jpg"></a></li>

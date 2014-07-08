@@ -11,7 +11,6 @@
     </head>
 
     <body>
-
         <!--Header-->
         <?php include './estruturas/header.php'; ?>
         <!-- /header -->
@@ -59,7 +58,6 @@
                 </div>
         </section>
 
-      
         <!--Footer-->
         <?php include './estruturas/footer.php'; ?>
         <!--/Footer-->       
