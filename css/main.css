@@ -1,4 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Fjalla+One);
+@import url(http://fonts.googleapis.com/css?family=Roboto:300,400,500,700);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300);
 
 .clearfix {
     *zoom: 1;
@@ -32,10 +33,10 @@
 }
 
 body {
-    font-size: 12px;
+    font-size: 14px;
     color: #34495e;
-    background-color: #fcfcfc;
-    padding-top:91px;
+    background:#fefefe;
+    padding-top:93px;
 }
 
 @media (max-width: 978px) {
@@ -45,8 +46,8 @@ body {
 }
 
 body h1,body h2,body h3,body h4,body .created {
-    font-family: "Fjalla One";
-    font-weight: normal;
+    font-family: "Roboto Condensed";
+    font-weight: 400;
 }
 
 body h5,body h6 {
@@ -122,41 +123,6 @@ body>section {
 body>section#slide-show {
     padding: 0;
 }
-
-#recent-works .links>a {
-    background: #fff;
-    color: #31c3e7;
-    text-shadow: none;
-}
-
-#clients .carousel {
-    margin-bottom: 0;
-}
-
-#clients .clients ul.thumbnails {
-    margin: 0;
-}
-
-#clients .clients ul.thumbnails>li {
-    text-align: center;
-    margin-bottom: 0;
-}
-
-#clients .prev,#clients .next {
-    color: #999;
-}
-
-#about-us .content{
-    background:#fefefe;
-    padding:12px;
-    box-shadow: 0 1px 1px rgba(0,0,0,0.2);
-    border-radius: 15px;
-}
-
-#about-us.main p{
-    text-align: justify;
-}
-
 
 .title {
     background: #31c3e7;
@@ -268,7 +234,7 @@ ul.tag-cloud li {
 
 header.navbar {
     margin-bottom: 0;
-    background: #f2f5fb!important;    
+    background: #fefefe!important;    
 }
 
 header.navbar .navbar-inner {
@@ -278,6 +244,18 @@ header.navbar .navbar-inner {
     border-width: 2px 0 2px 0;
     padding:0 0 2px 0;
 
+}
+
+header.navbar .navbar-inner .row{
+    margin-left:0;
+}
+
+header.navbar .navbar-inner .row .pull-left{
+    margin-left:30px;
+}
+
+header.navbar .navbar-inner .row .pull-right{
+    margin-right:30px;
 }
 
 header .logo {
@@ -305,7 +283,8 @@ header.navbar .nav>li>a {
     padding-top: 10px;
     padding-bottom: 10px;
     color: #3d66c2;
-    font-family: "Fjalla One";
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
     font-size: 14px;
     text-transform: uppercase;
     text-shadow: none;
@@ -469,13 +448,34 @@ header .dropdown-menu:before {
     margin: 0;
     padding: 0;
 }
-
-#sobre, #parceiros{
-    background:#f2f5fb;
+.section1{
+    background:rgb(240,243,250);
 }
 
-#projetos {
-    background:#d3ddf3;
+.section2{
+    background:rgb(210,220,241);
+}
+
+#valores .span4 div{
+    padding: 30px;
+    border-radius: 0 50px 0 50px;
+    text-align:justify;
+    height:160px;
+}
+
+#valores .missao{
+    background: rgba(102,194,61,0.5);
+    margin:0;
+}
+
+#valores .visao{
+    background: rgba(61,102,194,0.5);
+    margin:60px 0 0 0;
+}
+
+#valores .valores{
+    background: rgba(194,61,102,0.5);
+    margin:120px 0 0 0;
 }
 
 #services h1,#services h2,#services h3,#services h4,#services h5,#services h6 {
@@ -484,6 +484,15 @@ header .dropdown-menu:before {
 
 #sobre p {
     text-align:justify;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size:18px;
+    line-height: 1.5;
+}
+
+#sobre img {
+    max-height: 300px;
+    max-width: 300px;
 }
 
 #main-contents {

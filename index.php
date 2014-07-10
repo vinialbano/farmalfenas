@@ -69,56 +69,52 @@
         </section>
         <!--/Slider-->
 
-        <!--Services-->
-        <section id="sobre">
+        <!--Sobre-->        
+        <section id="sobre" class="section1">
             <div class="container">
-                <div class="center gap">
-                    <h2>Seja bem vindo!</h2>
-                    <p>A Farmalfenas Jr (FAJr) é a primeira empresa júnior de consultoria farmacêutica do sul de Minas Gerais. Sinteticamente somos uma empresa gerenciada por estudantes universitários que realizam projetos e prestam serviços em suas áreas de graduação para empresas ligadas à área farmacêutica. Pela finalidade da Empresa Júnior ser de cunho social e educacional e,ainda pela estrutura de baixos custos, os preços praticados são consideravelmente abaixo dos preços de mercado. </br>Vale lembrar que a empresa se localiza no ambiente da universidade e que todos os projetos e serviços seguem com orientação obrigatória de professores ou profissionais da área, com o objetivo de sempre garantir um padrão de qualidade elevado.</p>
+                <div class="row center">
+                    <h2>A Farmalfenas Jr é a primeira empresa júnior de consultoria farmacêutica do sul de Minas Gerais</h2>
                 </div>
-                <div class="row-fluid">
+                <div class="gap"></div>
+                <div class="row">
+                    <div class="span6">
+                        <p>Sinteticamente somos uma empresa gerenciada por estudantes universitários que realizam projetos e prestam serviços em suas áreas de graduação para empresas ligadas à área farmacêutica. Pela finalidade da Empresa Júnior ser de cunho social e educacional e, ainda pela estrutura de baixos custos, os preços praticados são consideravelmente abaixo dos preços de mercado. </br>Vale lembrar que a empresa se localiza no ambiente da universidade e que todos os projetos e serviços seguem com orientação obrigatória de professores ou profissionais da área, com o objetivo de sempre garantir um padrão de qualidade elevado.</p>
+                    </div>
+                    <div class="span6 center">
+                        <img src="images/portfolio/remedio.png">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--/Sobre-->
+
+        <section id="valores" class="section2">
+            <div class="container">
+                <div class="row">
                     <div class="span4">
-                        <div class="media">
-                            <div class="pull-left">
-                                <i class="icon-globe icon-medium"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading">Missão</h4>
-                                <p>Prestar consultoria farmacêutica, contando com a participação de membros capacitados, e proporcionar aos mesmos e a comunidade um serviço diferenciado que busca benefícios humanos, profissionais e sociais.</p>
-                            </div>
+                        <div class="missao">
+                            <h4 class="center">Missão</h4>
+                            <p>Prestar consultoria farmacêutica, contando com a participação de membros capacitados, e proporcionar aos mesmos e a comunidade um serviço diferenciado que busca benefícios humanos, profissionais e sociais.</p>
                         </div>
                     </div>            
-
                     <div class="span4">
-                        <div class="media">
-                            <div class="pull-left">
-                                <i class="icon-thumbs-up-alt icon-medium"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading">Visão</h4>
-                                <p>Desenvolver serviços com eficácia e qualidade, atingir as metas e expectativas determinadas pelos colaboradores, e com isto, adquirir o reconhecimento da empresa na região sudeste brasileira, prosperando aumentar a cartilha de serviços e clientes.</p>
-                            </div>
+                        <div class="visao">
+                            <h4 class="center">Visão</h4>
+                            <p>Desenvolver serviços com eficácia e qualidade, atingir as metas e expectativas determinadas pelos colaboradores, e com isto, adquirir o reconhecimento da empresa na região sudeste brasileira, prosperando aumentar a cartilha de serviços e clientes.</p>
                         </div>
                     </div>            
-
                     <div class="span4">
-                        <div class="media">
-                            <div class="pull-left">
-                                <i class="icon-leaf icon-medium icon-rounded"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading">Valores</h4>
-                                <p>Ética, Companheirismo, Empreendedorismo, Profissionalismo, Inovação, Flexibilidade, Determinação, Transparência, Responsabilidade, Comprometimento</p>
-                            </div>
+                        <div class="valores">
+                            <h4 class="center">Valores</h4>
+                            <p>Ética, Companheirismo, Empreendedorismo, Profissionalismo, Inovação, Flexibilidade, Determinação, Transparência, Responsabilidade, Comprometimento</p>
                         </div>
                     </div>
-                </div>			
+                </div>	
 
             </div>
         </section>
-        <!--/Services-->
 
-        <section id="projetos">
+        <section id="projetos" class="section1">
             <div class="container">  
 
                 <div class="row">
@@ -247,74 +243,72 @@
         </section>
 
 
-        <section id="parceiros" class="main">
+        <section id="parceiros" class="section2">
             <div class="container">
                 <div class="center">                    
                     <h2>Parceiros</h2>
                 </div>
-
                 <div class="row-fluid center ">
                     <ul class="thumbnails">
-                        
-                            <li class="span2"><a href="http://www.tribitjr.com/"><img src="images/parceiros/tribitjr.png"></a></li>
-                            <li class="span2"><a href="http://www.biotecinova.com.br"><img src="images/parceiros/biotecinova.png"></a></li>
-                            <li class="span2"><a href="http://www.unifal-mg.edu.br"><img src="images/parceiros/unifal.jpg"></a></li>                     
-                            <li class="span2"><a href="https://www.facebook.com/mantiflora"><img src="images/parceiros/mantiflora.jpg"></a></li>
-                            <li class="span2"><a href="http://www.unifal-mg.edu.br/ncq/"><img src="images/parceiros/ncq.jpg"></a></li>
-                            <li class="span2"><a href="http://beta.yeapfarma.com/"><img src="images/parceiros/yeap.jpg"></a></li>
-                        
+                        <li class="span2"><a href="http://www.tribitjr.com/"><img src="images/parceiros/tribitjr.png"></a></li>
+                        <li class="span2"><a href="http://www.biotecinova.com.br"><img src="images/parceiros/biotecinova.png"></a></li>
+                        <li class="span2"><a href="http://www.unifal-mg.edu.br"><img src="images/parceiros/unifal.jpg"></a></li>                     
+                        <li class="span2"><a href="https://www.facebook.com/mantiflora"><img src="images/parceiros/mantiflora.jpg"></a></li>
+                        <li class="span2"><a href="http://www.unifal-mg.edu.br/ncq/"><img src="images/parceiros/ncq.jpg"></a></li>
+                        <li class="span2"><a href="http://beta.yeapfarma.com/"><img src="images/parceiros/yeap.jpg"></a></li>
+
                     </ul>
                 </div>
             </div>
-        </div>
-    </div>
-</section>
-
-<!--Footer-->
-<?php include './estruturas/footer.php'; ?>
-<!--/Footer-->
+        </section>
 
 
 
-<script src="js/vendor/jquery-1.9.1.min.js"></script>
-<script src="js/vendor/bootstrap.min.js"></script>
-<script src="js/main.js"></script>
-<!-- Required javascript files for Slider -->
-<script src="js/jquery.ba-cond.min.js"></script>
-<script src="js/jquery.slitslider.js"></script>
-<!-- /Required javascript files for Slider -->
+        <!--Footer-->
+        <?php include './estruturas/footer.php'; ?>
+        <!--/Footer-->
 
-<!-- SL Slider -->
-<script type="text/javascript">
-    $(function() {
-        var Page = (function() {
 
-            var $navArrows = $('#nav-arrows'),
-                    slitslider = $('#slider').slitslider({
-                autoplay: true
-            }),
-                    init = function() {
-                        initEvents();
-                    },
-                    initEvents = function() {
-                        $navArrows.children(':last').on('click', function() {
-                            slitslider.next();
-                            return false;
-                        });
 
-                        $navArrows.children(':first').on('click', function() {
-                            slitslider.previous();
-                            return false;
-                        });
-                    };
+        <script src="js/vendor/jquery-1.9.1.min.js"></script>
+        <script src="js/vendor/bootstrap.min.js"></script>
+        <script src="js/main.js"></script>
+        <!-- Required javascript files for Slider -->
+        <script src="js/jquery.ba-cond.min.js"></script>
+        <script src="js/jquery.slitslider.js"></script>
+        <!-- /Required javascript files for Slider -->
 
-            return {init: init};
+        <!-- SL Slider -->
+        <script type="text/javascript">
+            $(function() {
+                var Page = (function() {
 
-        })();
+                    var $navArrows = $('#nav-arrows'),
+                            slitslider = $('#slider').slitslider({
+                        autoplay: true
+                    }),
+                            init = function() {
+                                initEvents();
+                            },
+                            initEvents = function() {
+                                $navArrows.children(':last').on('click', function() {
+                                    slitslider.next();
+                                    return false;
+                                });
 
-        Page.init();
-    });
-</script>
-<!-- /SL Slider -->
-</body>
+                                $navArrows.children(':first').on('click', function() {
+                                    slitslider.previous();
+                                    return false;
+                                });
+                            };
+
+                    return {init: init};
+
+                })();
+
+                Page.init();
+            });
+        </script>
+        <!-- /SL Slider -->
+    </body>
 </html>

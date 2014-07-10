@@ -9,10 +9,10 @@
             <div class="row">
                 <div class="span5">
                     <div class="row">
-                        <ul class="nav center">
+                        <ul class="nav pull-right">
                             <li><a href="index.php">Início</a></li>
                             <li><a href="sobre.php">Sobre</a></li>
-                            <li><a href="servicos.php">Serviços</a></li>
+                            <li> <a href="servicos.php">Serviços</a></li>
                         </ul>
                     </div>
                 </div>
@@ -24,7 +24,7 @@
                 <div class="span5">
                     <div class="row">
 
-                        <ul class="nav center">
+                        <ul class="nav pull-left">
                             <li><a href="portifolio.php">Portifólio</a></li>
                             <li><a href="acoes-socicias.php">Ações Sociais</a></li>
                             <li><a href="contato.php">Contato</a></li>         
