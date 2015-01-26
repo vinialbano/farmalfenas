@@ -1,6 +1,6 @@
 <?php
 
-$toemail = 'vinialbano@gmail.com'; // change this to your email id
+$toemail = 'farmalfenasjr@yahoo.com.br'; // change this to your email id
 $name = strip_tags($_POST['nome']);
 $email = strip_tags($_POST['email']);
 $msg = strip_tags($_POST['mensagem']);

@@ -15,13 +15,15 @@
         <?php include './estruturas/header.php'; ?>
         <!-- /header -->
 
-        <section class="no-margin">
-            <iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3714.2081392579926!2d-45.94826619999997!3d-21.421062399999958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94b5f5acf279765b%3A0xdfd62b1bcd3b731a!2sRua+Gabriel+Monteiro+da+Silva%2C+700+-+Parque+das+Na%C3%A7%C3%B5es!5e0!3m2!1spt-BR!2s!4v1400592599618;output=embed"></iframe>
+        <section class="container">
+            <iframe class="borda" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3714.205814750468!2d-45.94757579999995!3d-21.421153800000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94b5f5ac8ec6fa25%3A0x70741c65e865be15!2sR.+Gabriel+Monteiro+da+Silva%2C+701+-+Parque+das+Na%C3%A7%C3%B5es%2C+Alfenas+-+MG%2C+37130-000%2C+Rep%C3%BAblica+Federativa+do+Brasil!5e0!3m2!1spt-BR!2s!4v1407303463681"></iframe>
         </section>
+
+        <div class="container line"></div>
 
         <section id="contact-page" class="container">
             <div class="row-fluid">
-                <div class="span7">
+                <div class="span9">
                     <h4>Contato</h4>
                     <div class="status alert alert-success" style="display: none"></div>
 
@@ -50,7 +52,7 @@
                 <div class="span3">
                     <h4>Endereço</h4>
                     <p>
-                        <i class="icon-map-marker pull-left"></i>Rua Gabriel Monteiro da Silva, 700<br>Sala K204 - Centro - Alfenas
+                        <i class="icon-map-marker pull-left"></i>Rua Gabriel Monteiro da Silva, 701<br>Prédio K, sala K 107 A<br>Centro - Alfenas - MG
                     </p>
                     <p>
                         <i class="icon-envelope"></i> &nbsp;farmalfenasjr@yahoo.com.br
@@ -69,15 +71,15 @@
         <script>
             $(function() {
                 //twitter bootstrap script
-                $("button#submit").click(function(){
+                $("button#submit").click(function() {
                     $.ajax({
                         type: "POST",
                         url: "sendemail.php",
                         data: $('form.contact-form').serialize(),
-                        success: function(msg){
-                            alert("Mensagem Enviada");    
+                        success: function(msg) {
+                            alert("Mensagem Enviada");
                         },
-                        error: function(){
+                        error: function() {
                             alert("Erro! Sua mensagem não foi enviada!");
                         }
                     });
