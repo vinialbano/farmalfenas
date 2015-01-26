@@ -104,7 +104,7 @@
                             determinantes para o desenvolvimento e manutenção da empresa.</p>
                     </div>
                     <div class="span3">
-                        <img src="./images/portfolio/diretoria-financeiro.jpg">
+                        <img src="./images/organograma/diretoria juridico e financeiro.jpg">
                     </div>
                 </div>
                 <h3>Diretoria de Marketing e Relações Públicas</h3>
@@ -118,7 +118,7 @@
                             necessidades destes.</p>
                     </div>
                     <div class="span3">
-                        <img src="./images/portfolio/diretoria-marketing.jpg">
+                        <img src="./images/organograma/diretoria de marketing.jpg">
                     </div>
                 </div>
                 <h3>Diretoria de Projetos e Garantia da Qualidade</h3>
@@ -130,7 +130,7 @@
                             dos projetos em desenvolvimento e garantia da qualidade destes.</p>
                     </div>
                     <div class="span3">
-                        <img src="./images/portfolio/diretoria-projetos.jpg">
+                        <img src="./images/organograma/diretoria de projetos.jpg">
                     </div>
                 </div>
                 <h3>Diretoria de Gestão de Pessoas</h3>
@@ -143,7 +143,7 @@
                             melhoria e desenvolvimento da corporação.</p>
                     </div>
                     <div class="span3">
-                        <img src="./images/portfolio/diretoria-rh.jpg" alt=" " width="100%" style="max-height:600px">
+                        <img src="./images/organograma/diretoria de recursos humanos.jpg" alt=" " width="100%" style="max-height:600px">
                     </div>
                 </div>
             </div>
@@ -152,11 +152,167 @@
 
         <section>
             <div class="container">
-                <h2>Organograma</h2>
-                <div class="mini-gap"></div>
+                <div class="center">
+                    <h2>Organograma</h2>
+                </div>
+                <div class="gap"></div>
                 <div class="row-fluid">
-                    <div class="center">
-                        <img id="organograma" src="./images/portfolio/organograma.jpg" alt=" " width="100%">
+                    <div class="center">                  
+                        <img src="./images/organograma/Karen - Diretora Presidente.jpg" alt="" style="max-height:200px">
+                        <h4>Presidente</h4><p>Karen Santos</p>
+                    </div>
+                </div>     
+                <div class="gap"></div>
+                <div class="row-fluid">
+                    <div class="span3">
+                        <div class="center">                  
+                            <img src="./images/organograma/Camila Almeida Marketing.jpg" alt="" style="max-height:200px">
+                            <h4>Diretora de Marketing</h4><p>Camila Almeida</p>
+                        </div>
+                    </div>
+                    <div class="span3">
+                        <div class="center">                  
+                            <img src="./images/organograma/Roseane Alves - Projetos.jpg" alt="" style="max-height:200px">
+                            <h4>Diretora de Projetos</h4><p>Roseane Alves</p>
+                        </div>
+                    </div>
+                    <div class="span3">
+                        <div class="center">                  
+                            <img src="./images/organograma/Amanda Oliveira.jpg" alt="" style="max-height:200px">
+                            <h4>Diretora de Recursos Humanos</h4><p>Amanda Oliveira</p>
+                        </div>
+                    </div>
+                    <div class="span3">
+                        <div class="center">                  
+                            <img src="./images/organograma/Karla Negri - Juridico e Financeiro.jpg" alt="" style="max-height:200px">
+                            <h4>Diretora do Jurídico e Financeiro</h4><p>Karla Negri</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="gap"></div>
+                <div class="row-fluid">
+                    <div class="span2 offset1">
+                        <div class="center">                  
+                            <img src="./images/organograma/Michele Neri - Marketing.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Marketing de Relações Públicas</h4><p>Michele Neri</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Rayssa _zara.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Marketing e Comunicação</h4><p>Rayssa Ázara</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Natalia Moreira - marketing.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Marketing Externo</h4><p>Natália Moreira</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Miriam Mohallem - Marketing.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Negócios do Marketing</h4><p>Miriam Mohallem</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Monique Hellen - Marketing.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Marketing Interno</h4><p>Monique Hellen</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="gap"></div>
+                <div class="row-fluid">  
+                    <div class="span2 offset1">
+                        <div class="center">                  
+                            <img src="./images/organograma/Luana Cunha - Juridico e Financeiro.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente do Financeiro</h4><p>Luana Cunha</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Thaline Donato - Projetos.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente do Financeiro</h4><p>Thaline Donato</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Jessica Fernanda Golcalves - Financeiro.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente do Financeiro</h4><p>Jéssica Fernanda Gonçalves</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Mayara Andrioli - Juridico e Financeiro.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente Administrativa</h4><p>Mayara Andrioli</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Marina Montingelli Rh.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Ambiente e Clima</h4><p>Marina Montingelli</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="gap"></div>
+                <div class="row-fluid">    
+                    <div class="span2 offset1">
+                        <div class="center">                   
+                            <img src="./images/organograma/Ana Caroline Machado - Juridico e Financeiro.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente do Jurídico</h4><p>Ana Caroline Machado</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Carolina Reis - Rh.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Conhecimento</h4><p>Carolina Reis</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Camilla Camargo - Projetos.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Controle Interno</h4><p>Camilla Camargo</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Jessica Caroline.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Recursos Humanos</h4><p>Jéssica Caroline</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                   
+                            <img src="./images/organograma/Paula Diana Betiol - Recursos Humanos.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Recursos Humanos</h4><p>Paula Diana Betiol</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="gap"></div>
+                <div class="row-fluid">                       
+                    <div class="span2 offset2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Clara Tayt-son - Projetos.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Projetos</h4><p>Clara Tayt-son</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Ana Gabriela Assis - Projetos.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Projetos</h4><p>Ana Gabriela Assis</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Duda Fonseca - Projetos.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Qualidade</h4><p>Duda Fonseca</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Wanessa Awata - Projetos.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Qualidade</h4><p>Wanessa Awata</p>
+                        </div>
                     </div>
                 </div>
             </div>

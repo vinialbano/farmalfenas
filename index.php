@@ -20,15 +20,15 @@
                 <div id="myCarousel" class="carousel slide">
 
                     <!-- Wrapper for slides -->
-                    <div class="carousel-inner">
+                    <div class="carousel-inner">         
                         <div class="active item">
-                            <a href="./curso.php" title="Veja mais informações aqui"><img src="./images/portfolio/slider_3.jpg" alt=""></a>
-                        </div>
-                        <div class="item">
                             <img src="./images/portfolio/slider_1.jpg" alt="">
                         </div>
                         <div class="item">
                             <img src="./images/portfolio/slider_2.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <a href="./curso.php" title="Veja mais informações aqui"><img src="./images/portfolio/slider_3.jpg" alt=""></a>
                         </div>
                         <div class="item">
                             <img src="./images/portfolio/slider_4.jpg" alt="">
