@@ -19,6 +19,23 @@
                 <h2>Projetos em Desenvolvimento</h2>
                 <div class="mini-gap"></div>
                 <div class="row-fluid">
+                    <h3>Curso de Injetáveis</h3>
+                    <div class="mini-gap"></div>
+                    <div class="row-fluid">
+                        <div class="span6">
+                            <img src="./images/portfolio/curso_injetaveis2.jpg">
+                        </div>
+                        <div class="span6 sobre">
+                            <p>Pensando no aperfeiçoamento dos alunos e profissionais da área da saúde, a FarmAlfenas Jr. oferece o curso de aplicação
+                                de Injetáveis. Esse curso objetiva trabalhar a biossegurança, antissepsia, cálculo de fracionamento e diluição, além de
+                                aplicações práticas de injetáveis. O material utilizado no dia do curso teórico e prático é  disponibilizado pela Empresa,
+                                além de contar com um profissional capacitado na área.</p>
+                            <p>Dessa maneira, o objetivo final é levar o aluno a concluir um curso de excelência no ramo de Aplicação de Injetáveis.</p>
+                        </div>    
+                    </div>
+                </div>
+                <div class="gap"></div>
+                <div class="row-fluid">
                     <h3>Curso de HPLC</h3>
                     <div class="mini-gap"></div>
                     <div class="row-fluid">

@@ -158,8 +158,8 @@
                 <div class="gap"></div>
                 <div class="row-fluid">
                     <div class="center">                  
-                        <img src="./images/organograma/Karen - Diretora Presidente.jpg" alt="" style="max-height:200px">
-                        <h4>Presidente</h4><p>Karen Santos</p>
+                        <img src="./images/organograma/Amanda Oliveira.jpg" alt="" style="max-height:200px">
+                        <h4>Presidente</h4><p>Amanda Oliveira</p>
                     </div>
                 </div>     
                 <div class="gap"></div>
@@ -178,8 +178,8 @@
                     </div>
                     <div class="span3">
                         <div class="center">                  
-                            <img src="./images/organograma/Amanda Oliveira.jpg" alt="" style="max-height:200px">
-                            <h4>Diretora de Recursos Humanos</h4><p>Amanda Oliveira</p>
+                            <img src="./images/organograma/Jessica Caroline.jpg" alt="" style="max-height:200px">
+                            <h4>Diretora de Recursos Humanos</h4><p>Jéssica Caroline</p>
                         </div>
                     </div>
                     <div class="span3">
@@ -224,7 +224,7 @@
                 </div>
                 <div class="gap"></div>
                 <div class="row-fluid">  
-                    <div class="span2 offset1">
+                    <div class="span2 offset2">
                         <div class="center">                  
                             <img src="./images/organograma/Luana Cunha - Juridico e Financeiro.jpg" alt="" style="max-height:200px">
                             <h4>Gerente do Financeiro</h4><p>Luana Cunha</p>
@@ -238,41 +238,29 @@
                     </div>
                     <div class="span2">
                         <div class="center">                  
-                            <img src="./images/organograma/Jessica Fernanda Golcalves - Financeiro.jpg" alt="" style="max-height:200px">
-                            <h4>Gerente do Financeiro</h4><p>Jéssica Fernanda Gonçalves</p>
-                        </div>
-                    </div>
-                    <div class="span2">
-                        <div class="center">                  
                             <img src="./images/organograma/Mayara Andrioli - Juridico e Financeiro.jpg" alt="" style="max-height:200px">
                             <h4>Gerente Administrativa</h4><p>Mayara Andrioli</p>
                         </div>
                     </div>
                     <div class="span2">
-                        <div class="center">                  
-                            <img src="./images/organograma/Marina Montingelli Rh.jpg" alt="" style="max-height:200px">
-                            <h4>Gerente de Ambiente e Clima</h4><p>Marina Montingelli</p>
+                        <div class="center">                   
+                            <img src="./images/organograma/Ana Caroline Machado - Juridico e Financeiro.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente do Jurídico</h4><p>Ana Caroline Machado</p>
                         </div>
                     </div>
                 </div>
                 <div class="gap"></div>
                 <div class="row-fluid">    
-                    <div class="span2 offset1">
-                        <div class="center">                   
-                            <img src="./images/organograma/Ana Caroline Machado - Juridico e Financeiro.jpg" alt="" style="max-height:200px">
-                            <h4>Gerente do Jurídico</h4><p>Ana Caroline Machado</p>
+                    <div class="span2 offset2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Marina Montingelli Rh.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Ambiente e Clima</h4><p>Marina Montingelli</p>
                         </div>
                     </div>
                     <div class="span2">
                         <div class="center">                  
                             <img src="./images/organograma/Carolina Reis - Rh.jpg" alt="" style="max-height:200px">
                             <h4>Gerente de Conhecimento</h4><p>Carolina Reis</p>
-                        </div>
-                    </div>
-                    <div class="span2">
-                        <div class="center">                  
-                            <img src="./images/organograma/Camilla Camargo - Projetos.jpg" alt="" style="max-height:200px">
-                            <h4>Gerente de Controle Interno</h4><p>Camilla Camargo</p>
                         </div>
                     </div>
                     <div class="span2">
@@ -290,7 +278,7 @@
                 </div>
                 <div class="gap"></div>
                 <div class="row-fluid">                       
-                    <div class="span2 offset2">
+                    <div class="span2 offset1">
                         <div class="center">                  
                             <img src="./images/organograma/Clara Tayt-son - Projetos.jpg" alt="" style="max-height:200px">
                             <h4>Gerente de Projetos</h4><p>Clara Tayt-son</p>
@@ -300,6 +288,12 @@
                         <div class="center">                  
                             <img src="./images/organograma/Ana Gabriela Assis - Projetos.jpg" alt="" style="max-height:200px">
                             <h4>Gerente de Projetos</h4><p>Ana Gabriela Assis</p>
+                        </div>
+                    </div>
+                    <div class="span2">
+                        <div class="center">                  
+                            <img src="./images/organograma/Camilla Camargo - Projetos.jpg" alt="" style="max-height:200px">
+                            <h4>Gerente de Controle Interno</h4><p>Camilla Camargo</p>
                         </div>
                     </div>
                     <div class="span2">

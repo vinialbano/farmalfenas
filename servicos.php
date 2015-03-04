@@ -189,19 +189,10 @@
                                     <p>Treinamento de Cromatografia Líquida de Alta Eficiência (HPLC ou CLAE)</p>
                                 </li>
                                 <li>
-                                    <p>
-                                        Treinamento em Cromatografia Gasosa
-                                    </p>
+                                    <p>Curso de Injetáveis</p>
                                 </li>
                                 <li>
-                                    <p>
-                                        Treinamento em desenvolvimento e validação de metodologias analíticas
-                                    </p>
-                                </li>
-                                <li>
-                                    <p>
-                                        Treinamento em desenvolvimento de cosméticos
-                                    </p>
+                                    <p>Projeto de Dinâmica em Grupos e Processo Seletivo</p>
                                 </li>
                             </ul>
                         </div>

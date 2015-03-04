@@ -6,6 +6,7 @@
     <head>
         <?php include './estruturas/head.php'; ?>
         <title>Início | FarmAlfenas Jr</title>
+        <meta name="google-site-verification" content="tHMtEHNE3Ca9guuOIlcfpN3iC1S4rsqD-nozaq47ZEY" />
     </head>
 
     <body>
@@ -20,8 +21,11 @@
                 <div id="myCarousel" class="carousel slide">
 
                     <!-- Wrapper for slides -->
-                    <div class="carousel-inner">         
+                    <div class="carousel-inner">
                         <div class="active item">
+                            <a href="./arquivos/Edital-processo-seletivo-2015.pdf" target="_blank"> <img src="./images/portfolio/edital.jpg" alt="Edital"></a>
+                        </div>
+                        <div class="item">
                             <img src="./images/portfolio/slider_1.jpg" alt="">
                         </div>
                         <div class="item">
