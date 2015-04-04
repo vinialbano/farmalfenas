@@ -21,22 +21,19 @@
                 <div id="myCarousel" class="carousel slide">
 
                     <!-- Wrapper for slides -->
-                    <div class="carousel-inner">
-                        <div class="active item">
-                            <a href="./arquivos/Edital-processo-seletivo-2015.pdf" target="_blank"> <img src="./images/portfolio/edital.jpg" alt="Edital"></a>
+                    <div class="carousel-inner">                  
+                        <div class="item active">
+                            <a href="./curso-hplc.php" title="Veja mais informações aqui"><img src="./images/portfolio/slider_2.jpg" alt=""></a>
+                        </div>
+                        <div class="item">
+                            <a href="./curso-injetaveis.php" title="Veja mais informações aqui"><img src="./images/portfolio/slider_3.jpg" alt=""></a>
                         </div>
                         <div class="item">
                             <img src="./images/portfolio/slider_1.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="./images/portfolio/slider_2.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <a href="./curso.php" title="Veja mais informações aqui"><img src="./images/portfolio/slider_3.jpg" alt=""></a>
-                        </div>
-                        <div class="item">
                             <img src="./images/portfolio/slider_4.jpg" alt="">
-                        </div>
+                        </div> 
                     </div>
 
                     <!-- Carousel nav -->
